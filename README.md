@@ -1,3 +1,6 @@
+# Details:
+Details are in the Project Report.
+
 # How to run the jupyter notebook file:
 1. Install the following libraries to your python environment: sklearn, numpy, matplotlib, pandas, imblearn
 2. Open the jupyter notebook file using jupyter or Visual Studio Code.
