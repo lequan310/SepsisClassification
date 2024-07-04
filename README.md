@@ -4,7 +4,7 @@
 * The objective of this project is to develop a model that can predict whether the patients will develop Sepsis or not.
 * The dataset provided contains various information regarding the bloodwork and other measurements of the patients in ICU.
 * We will go through Exploratory Data Analysis (EDA), model selection, and finally model evaluation.
-* We uses Logistic Regression, Cost-Sensitive Decision Tree, and Balanced Random Forest and compare the results to each other. The reason for choosing these models are available in the project report.
+* We uses Logistic Regression, Cost-Sensitive Decision Tree, and Balanced Random Forest and compare the results to each other. Details are available in the [project report](Project%20Report.pdf).
 
 ## How to run the jupyter notebook file:
 1. Install the following libraries to your python environment: sklearn, numpy, matplotlib, pandas, imblearn
